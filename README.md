@@ -20,6 +20,10 @@ A simple command-line Python tool to convert Indian Rupees (INR) into foreign cu
 3. Open terminal / command prompt and navigate to the folder.
 4. Run the script with:
 
+```bash
+python currency_converter.py
+```
+
 ---
 
 ## 📚 Concepts Used
